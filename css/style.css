@@ -32,6 +32,9 @@ a img {
 }
 
 /* 하위버젼브라우저에 a안에 들어가있는 img 줄 없앰 */
+body {
+    font-family: 맑은고딕;
+}
 
 /* layout */
 #wrap {
